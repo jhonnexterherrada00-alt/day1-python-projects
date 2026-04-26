@@ -11,3 +11,6 @@ Gusto ko maging Junior Dev after SHS. Kaya nag-iipon na ko projects ngayon pa la
 **Day 1:** Polomolok, South Cotabato
 **Strand:** TECH-PRO CSS
 **Dream Job:** Software Developer @ ₱50k+ salary
+
+## Day 2 - April 27, 2026
+3. damage_calculator.py - First interactive calculator! Level 4 unlocked 😂
