@@ -16,3 +16,4 @@ Gusto ko maging Junior Dev after SHS. Kaya nag-iipon na ko projects ngayon pa la
 3. damage_calculator.py - First interactive calculator! Level 4 unlocked
 damage_calculator.py - Natutunan ko dito paano gamitin int() para ma-convert 
    yung input sa number. Nag-error ako 3x bago gumana. Pero gets ko na ngayon!
+4. mlbb_rank_checker.py - First function ko! def + return. Level 5 unlocked
