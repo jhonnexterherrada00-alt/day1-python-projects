@@ -17,3 +17,7 @@ Gusto ko maging Junior Dev after SHS. Kaya nag-iipon na ko projects ngayon pa la
 damage_calculator.py - Natutunan ko dito paano gamitin int() para ma-convert 
    yung input sa number. Nag-error ako 3x bago gumana. Pero gets ko na ngayon!
 4. mlbb_rank_checker.py - First function ko! def + return. Level 5 unlocked
+
+## Day 3 - April 28, 2026
+5. mlbb_guess_game
+   Learned: WHILE LOOP + BREAK
