@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook Clone - Music</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="login-overlay">
+        <div class="fb-logo-text">facebook</div>
+        <div class="login-card">
+            <input type="text" id="name-field" placeholder="Mobile number or email">
+            <input type="password" placeholder="Password">
+            <button class="btn-login" onclick="startApp()">Log In</button>
+        </div>
+    </div>
+
+    <header id="main-header">
+        <div class="header-logo">facebook</div>
+        <div class="header-icons">🔍 🔔 ☰</div>
+    </header>
+
+    <div id="feed-wrapper">
+        <div class="post">
+            <div class="post-top">
+                <div class="p-avatar">👤</div>
+                <div class="p-info">
+                    <b id="user-logged">User Name</b>
+                    <small>Just now · 🌎</small>
+                </div>
+            </div>
+            <div class="post-content">
+                Lala grabe! Solid 'tong kantang 'to. 🎸✨
+            </div>
+            <div class="music-box">
+                <audio controls>
+                    <source src="https://files.catbox.moe/kusps9.mp3" type="audio/mpeg">
+                </audio>
+            </div>
+            <div class="post-stats">
+                <span id="like-digit">👍 12,453</span>
+                <span>4.2K Comments</span>
+            </div>
+            <div class="post-actions">
+                <div class="action-btn" id="l-btn" onclick="handleLike()">👍 Like</div>
+                <div class="action-btn">💬 Comment</div>
+                <div class="action-btn">↪️ Share</div>
+            </div>
+        </div>
+
+        <div class="post">
+            <div class="post-top"><div class="p-avatar">🎸</div><div class="p-info"><b>Guitar Hub</b><br><small>2h ago</small></div></div>
+            <div class="post-content">Keep practicing! #STEM</div>
+            <div class="post-stats"><span>👍 892</span></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
