@@ -21,3 +21,5 @@ damage_calculator.py - Natutunan ko dito paano gamitin int() para ma-convert
 ## Day 3 - April 28, 2026
 5. mlbb_guess_game
    Learned: WHILE LOOP + BREAK
+## Day 4 - May 1, 2026
+6. mlbb_item_checker
