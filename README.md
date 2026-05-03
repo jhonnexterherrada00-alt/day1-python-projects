@@ -23,3 +23,5 @@ Gusto ko maging Junior Dev after SHS. Kaya nag-iipon na ko projects ngayon pa la
 6. mlbb_item_checker
 ## Day 5 - May 2, 2026
 7. mlbb_player_stat
+## Day 6 - May 3, 2026
+8. gcash_budget_checker
