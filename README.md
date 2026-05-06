@@ -1,4 +1,4 @@
-mo# Day 1 Python Projects ni Jhon Nexter 🇵🇭
+# Day 1 Python Projects ni Jhon Nexter 🇵🇭
 Unang mga code ko nung Grade 11. TECH-PRO CSS @ Schola de San Jose pero future Software Dev.
 
 ## Projects ko:
@@ -27,3 +27,6 @@ Gusto ko maging Junior Dev after SHS. Kaya nag-iipon na ko projects ngayon pa la
 8. gcash_budget_checker.py
 ## Day 7 - May 4, 2026
 9. jhon_music_empire.py
+## May 5, 2026: Di nakagawa 😢 
+## Day 1 - May 6, 2026
+10. jhon_music_hub.py
